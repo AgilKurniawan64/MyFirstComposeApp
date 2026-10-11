@@ -43,7 +43,7 @@ fun MyFirstScreen() {
             Text(text = "My idea: A Student Task & Homework Tracker.")
 
             Image(
-                painter = painterResource(id = R.drawable.my_picture),
+                painter = painterResource(id = R.drawable.My_picture),
                 contentDescription = "Profile picture of the user"
             )
         }
